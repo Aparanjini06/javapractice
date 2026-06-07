@@ -1,0 +1,27 @@
+package com.codegnan.git;
+
+import java.util.Scanner;
+
+public class PyramidNumberPattern {
+
+	public static void main(String[] args) {
+		Scanner s=new Scanner(System.in);
+		int row=s.nextInt();
+		int c=1;
+		for(int i=1;i<=row;i++)
+		{
+			for(int j=row-i;j>=1;j--)
+			{
+				System.out.print("  ");
+			}
+			for(int j=1;j<=i;j++)
+			{
+				System.out.print(c++);
+				System.out.print("  ");
+			}
+			System.out.println();
+		}
+		s.close();
+	}
+
+}
