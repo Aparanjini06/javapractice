@@ -30,8 +30,7 @@ Output:
  You get a discount of: 0.0
  Total after discount: 300.0*/
 
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class ShoppingDiscountCal {
