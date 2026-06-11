@@ -31,8 +31,7 @@ Input
 Expected Output
 3998
 true*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class BaseScore {
