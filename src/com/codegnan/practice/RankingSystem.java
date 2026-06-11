@@ -22,8 +22,7 @@ Input:
  80 60 70
 Output:
  Second largest: 70*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class RankingSystem {
