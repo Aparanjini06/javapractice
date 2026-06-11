@@ -1,5 +1,4 @@
-package com.codegnan.git;
-// to check each and every element in an array are palindrome or not
+package com.codegnan.practice;// to check each and every element in an array are palindrome or not
 
 import java.util.Scanner;
 
