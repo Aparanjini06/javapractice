@@ -26,7 +26,7 @@ Input:
  70
 Output:
  You are a(n) Senior*/
-package com.codegnan.git;
+package com.codegnan.practice;
 
 import java.util.Scanner;
 
