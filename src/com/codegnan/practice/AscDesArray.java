@@ -1,4 +1,4 @@
-package com.codegnan.git;
+package com.codegnan.practice;
 
 import java.util.Scanner;
 
@@ -15,9 +15,9 @@ public class AscDesArray {
 		
 		for(int i=0;i<row;i++) {
 			for(int j=0;j<row-1;j++) {
-				if(a[i]<a[j])
+				if(a[i]<a[j])//20 1 4 20 32  20<32
 				{
-					int temp=a[i];
+					int temp=a[i];//
 					a[i]=a[j];
 					a[j]=temp;
 				}
