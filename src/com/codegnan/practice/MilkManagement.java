@@ -61,8 +61,7 @@ Input
 11
 Output 
 Container Capacity: 96 liters*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class MilkManagement {
