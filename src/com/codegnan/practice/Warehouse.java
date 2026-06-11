@@ -36,8 +36,7 @@ Input
 Expected Output
 1.1
 true*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class Warehouse {
