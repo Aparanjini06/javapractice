@@ -1,5 +1,4 @@
-package com.codegnan.git;
-//odd and even positions sum
+package com.codegnan.practice;//odd and even positions sum
 import java.util.Scanner;
 
 public class OddEvenPositionSum {
