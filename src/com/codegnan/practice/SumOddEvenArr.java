@@ -1,5 +1,4 @@
-package com.codegnan.git;
-//sum of odd and even number in an array
+package com.codegnan.practice;//sum of odd and even number in an array
 import java.util.Scanner;
 
 public class SumOddEvenArr {
