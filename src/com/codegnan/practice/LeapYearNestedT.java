@@ -22,8 +22,7 @@ Input:
  2000
 Output:
  2000 is Leap Year*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class LeapYearNestedT {
