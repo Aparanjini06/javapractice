@@ -22,8 +22,7 @@ Input:
  120
 Output:
  The number is: Positive*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class NumberSign {
