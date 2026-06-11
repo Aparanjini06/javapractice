@@ -39,8 +39,7 @@ Input
 Expected Output
 1000000
 true*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class DiscountPrice {
