@@ -26,8 +26,7 @@ Input:
  23
 Output:
  Good Night*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class GreetingBased {
