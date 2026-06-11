@@ -1,6 +1,5 @@
 //print odd and even numbers in an array
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class OddEvenArray {
