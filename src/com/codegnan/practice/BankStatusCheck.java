@@ -25,8 +25,7 @@ Input:
  300
 Output:
  Your account is in: Account Overdrawn*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class BankStatusCheck {
