@@ -26,8 +26,7 @@ Input:
  25000
 Output:
  Total fare: 285.0*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class TaxiFare {
