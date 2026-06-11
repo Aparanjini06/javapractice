@@ -12,8 +12,7 @@ Input:
  2023
 Output:
  Not a Leap Year*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class LeapYearT {
