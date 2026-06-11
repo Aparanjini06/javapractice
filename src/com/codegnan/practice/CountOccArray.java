@@ -1,5 +1,4 @@
-package com.codegnan.git;
-//count occurrence element in an array
+package com.codegnan.practice;//count occurrence element in an array
 import java.util.Scanner;
 
 public class CountOccArray {
