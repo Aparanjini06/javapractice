@@ -42,8 +42,7 @@ Output
 All Three Can Complete Work In 6 days
 
 */
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class NumOfDays {
