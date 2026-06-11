@@ -12,8 +12,7 @@ Input:
  -15
 Output:
  Negative*/
-package com.codegnan.git;
-
+package com.codegnan.practice;
 import java.util.Scanner;
 
 public class PositiveNegativeT {
